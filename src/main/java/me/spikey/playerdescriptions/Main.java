@@ -40,6 +40,8 @@ public class Main extends JavaPlugin {
         if (Bukkit.getPluginManager().getPlugin("PlaceholderAPI") != null) {
             new TraitsPlaceholders(this, playerManager).register();
         }
+
+        Metrics metrics = new Metrics(this, 13933);
     }
 
 
