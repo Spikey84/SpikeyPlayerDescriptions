@@ -13,8 +13,8 @@ elements:
 
 # command: /pd timezone [option]
 
-  Timezone: ['16', '17', '18']
+  Timezone: ['EST', 'EST', 'EST']
 
 # command: /pd pronoun [option]
 
-  Pronouns: ['16', '17', '18']
+  Pronouns: ['asdf', 'asdf', 'asdf']
