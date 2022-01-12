@@ -1,0 +1,20 @@
+# allow for more ranges/strings to be added/removed to the list
+# allow the use of placeholders for each descriptions
+# {pd_age}
+# {pd_timezone}
+# {pd_pronouns}
+# '/pd help' command that just lists the three commands for setting age/timezone/pronouns
+
+
+# command: /pd age [option]
+
+elements:
+  Age: ['16', '17', '18']
+
+# command: /pd timezone [option]
+
+  Timezone: ['16', '17', '18']
+
+# command: /pd pronoun [option]
+
+  Pronouns: ['16', '17', '18']

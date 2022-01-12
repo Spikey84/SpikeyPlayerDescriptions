@@ -1,0 +1,15 @@
+main: me.spikey.playerdescriptions.Main
+
+name: SpikeyPlayerDescriptions
+author: SpikeyNoob
+version: 1.0
+
+api-version: 1.13
+
+commands:
+  traits:
+    aliases:
+      - pd
+      - descriptions
+      - description
+      - playerdescriptions
